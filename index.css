@@ -1,0 +1,88 @@
+.container{
+  margin: 20px;
+  text-align: center;
+}
+
+/*Google Logo Starting*/
+
+div.logo {
+  display: grid;
+  justify-content: center;
+}
+
+/*Google Logo Ending*/
+
+/*Search Button Starting*/
+
+.search-button {
+  background-color: rgba(211, 213, 216, 0.548);
+  padding: 20px;
+  display: grid;
+  justify-content: center;
+}
+
+.button-1 {
+  width: 485px;
+}
+
+.button-2 {
+  width: 225px;
+}
+
+.for-float {
+  float: left;
+  justify-content: center;
+}
+
+/*Search Button Ending*/
+
+/*All Boxes Starting*/
+
+.boxes-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.box-1 {
+  background-color:rgb(126, 229, 218);
+  width: 35%;
+  height: 140px;
+  margin: 5px 6px 0px 0px;
+  display: grid;
+  justify-content: center;
+  line-height: 2.2;
+}
+
+.box-2 {
+  background-color:rgb(112, 204, 194);
+  width: 15%;
+  height: 140px;
+  margin: 5px 6px 0px 0px;
+  display: grid;
+  justify-content: center;
+  line-height: 1.6;
+}
+
+.box-3 {
+  background-color:rgb(107, 170, 163);;
+  width: 50%;
+  height: 140px;
+  margin: 5px 0px 0px 0px;
+  display: grid;
+  justify-content: center;
+  line-height: 1.6;
+}
+
+/*All Boxes Ending */
+
+/*Footer Starting*/
+
+
+.copyright {
+  clear: both;
+  display: grid;
+  justify-content: center;
+  margin-top: 30px;
+}
+
+/*Footer Starting*/
